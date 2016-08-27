@@ -4,9 +4,11 @@ Plugin Name: Use jQuery Cloudflare
 Plugin URI: http://additifstabac.free.fr/index.php/use-jquery-cloudflare/
 Donate link: additifstabac@free.fr
 Description: Charge les bibliothèques open source jQuery et jQuery-migrate depuis le CDN de Cloudflare
-Author: luciole135
-Author URI: http://additifstabac.free.fr
 Version: 1.2
+Author: luciole135
+Author URI: http://additifstabac.free.frDonate link: additifstabac@free.fr
+License: GPLv3
+Licence URI: https://www.gnu.org/licenses/gpl.html
 */
 function modify_jquery_luc() {global $wp_scripts;
 	if (!is_admin()) {
