@@ -3,7 +3,7 @@ Contributors: luciole135
 Tags: cloudflare, cdn, jquery, jquery-migrate, masonry, js, optimisation, speed, WordPress Performance
 Donate link: additifstabac@free.fr
 Requires at least: 3.9
-Tested up to: 4.4
+Tested up to: 4.6
 Stable tag: 1.2
 
 Loads the open source scripts jQuery, jQuery-migrate and Masonry from CloudFlare's CDN.
@@ -23,7 +23,7 @@ Loads the open source scripts jQuery, jQuery-migrate and Masonry from CloudFlare
 
 
 = English =
-* An extremely lightweight plugin to load the 3 scripts jquery, jquery-migrate and Masonry of WordPress from Cloudflare CDN.  It allows to optimize and speed up WordPress. 
+* An extremely lightweight plugin to load the 3 scripts jquery, jquery-migrate and Masonry of WordPress from Cloudflare CDN.  It allows to optimize and speed up WordPress.
 * It puts the jquery scripts in footer and not in the header as WordPress does.
 * It use https instead of http protocol.
 * It increases approximately 5% Page Speed ​​Grade on GTmetrix.
